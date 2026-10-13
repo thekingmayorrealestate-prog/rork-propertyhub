@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "Homestead",
+      "path": "ios-homestead",
+      "framework": "swift",
+      "settings": {
+        "swiftSibling": false
+      }
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
